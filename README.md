@@ -1,5 +1,7 @@
 # Deliverable One (Initial Project Set-up and Cloud Service Configuration)
-Deliverable 1 primarily focuses on configuring services for the application.  Please use the manual below to walk through the various items below.
+Deliverable 1 primarily focuses on configuring services for the application.  Please use the guide below to walk through the various items below.
+
+Link to Guide - https://instructorc.github.io/site/slides/webtools/pdf/serverless_app.pdf
 
 ## Configuring Cloud-based Services
  - Creating a DynamoDB Table (53 - 61)
